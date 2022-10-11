@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marknicholas15
-- 👀 I’m interested in Data Science
+- 👀 I Work as a Data Scientist
 - 📫 You can reach me on LinkedIn - "https://www.linkedin.com/in/mark-nicholas-akyapogu/"
 
 <!---
